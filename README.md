@@ -1,6 +1,6 @@
 # Kenneth Hayes
 
-**Mechanical Engineer | Aspiring Software Developer**  
+** Software Developer**  
 📍 Michigan, USA | 🧠 Java • SQL • JavaFX • PostgreSQL | 🎓 B.S. Software Engineering (ASU)
 
 ---
