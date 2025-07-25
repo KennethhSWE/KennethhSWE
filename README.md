@@ -12,12 +12,11 @@ I'm a mechanical engineer with extensive experience in CAD design, CNC machining
 ---
 
 ## 📂 Highlighted Repositories
+### 🔹 [FamilyCommandCenter](https://github.com/KennethhSWE/FamilyCommandCenter)
+A JavaFX desktop application integrated with PostgreSQL to manage household tasks, schedules, and point tracking for family members.
 
 ### 🔹 [HeroAcademyGym](https://github.com/KennethhSWE/HeroAcademyGym)
 A Java-based application designed to gamify gym progress tracking. Implements user profiles, workout logging, and progress visualization.
-
-### 🔹 [FamilyCommandCenter](https://github.com/KennethhSWE/FamilyCommandCenter)
-A JavaFX desktop application integrated with PostgreSQL to manage household tasks, schedules, and point tracking for family members.
 
 ### 🔹 [CSE240-Project14](https://github.com/KennethhSWE/CSE240-Project14)
 A project from my coursework involving recursive string parsing in C++ and Scheme, demonstrating algorithmic thinking and syntax handling.
